@@ -1,0 +1,51 @@
+VLSI PROJECT REPORT
+==============================
+
+Project Title:
+VLSI-Based Digital Clock with Alarm Functionality
+
+Tool Used:
+- Icarus Verilog (Simulation)
+- GTKWave (Waveform Analysis)
+
+Design Description:
+This project implements a digital clock in Verilog HDL that counts
+hours, minutes, and seconds. It also includes an alarm feature that
+triggers when the current time matches the preset alarm time.
+
+Modules Implemented:
+1. Clock Divider
+2. Time Counter (HH:MM:SS)
+3. Alarm Comparator
+4. Top Module Integration
+5. Testbench for Verification
+
+Features:
+- 24-hour digital clock
+- Seconds, minutes, and hours counter
+- Alarm enable functionality
+- Alarm trigger output
+- Reset functionality
+
+Verification Method:
+- Functional simulation using Icarus Verilog
+- Waveform analysis using GTKWave
+- Self-checking testbench
+
+Tested Scenarios:
+✓ Reset initializes time to 00:00:00
+✓ Seconds increment correctly
+✓ Minute rollover after 59 seconds
+✓ Hour rollover after 59 minutes
+✓ Alarm triggers at correct time
+
+Output Verification:
+All outputs verified using waveform simulation.
+
+Result:
+PROJECT SUCCESSFULLY SIMULATED AND VERIFIED
+
+Conclusion:
+The project successfully demonstrates digital clock design,
+timing counters, and alarm logic using Verilog HDL.
+It is suitable for academic VLSI coursework and GitHub portfolio.

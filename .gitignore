@@ -1,0 +1,26 @@
+# Simulation outputs
+*.vcd
+*.vvp
+*.out
+
+# GTKWave save files
+*.gtkw
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python cache 
+__pycache__/
+*.pyc
+
