@@ -132,22 +132,6 @@ Expected behavior:
 
 ---
 
-## Synthesis
-
-Yosys synthesis script:
-
-```powershell
-yosys scripts/synthesis.ys
-```
-
-Generated reports can be found in:
-
-```text
-reports/
-```
-
----
-
 ## Project Structure
 
 ```text
@@ -167,23 +151,6 @@ VLSI-Digital-Clock-with-Alarm-Functionality/
 
 ---
 
-## Screenshots
-
-Recommended screenshots for documentation:
-
-1. Project folder structure
-2. Successful compilation
-3. Successful simulation
-4. GTKWave waveform view
-5. Synthesis report
-
-Store screenshots inside:
-
-```text
-images/
-```
-
----
 
 ## Applications
 
