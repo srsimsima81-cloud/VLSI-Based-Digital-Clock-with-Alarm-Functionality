@@ -144,7 +144,6 @@ VLSI-Digital-Clock-with-Alarm-Functionality/
 ├── reports/
 ├── waveforms/
 ├── images/
-├── docs/
 ├── README.md
 └── .gitignore
 ```
